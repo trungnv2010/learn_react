@@ -1,2 +1,2 @@
-# learn_react
-some project I write with ReactJs
+# Just some project I write with ReactJs
+
